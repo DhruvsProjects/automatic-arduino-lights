@@ -12,7 +12,8 @@ We will be using the built in LED of the arduino (which is assigned to pin 13 fo
 ![image](https://github.com/user-attachments/assets/e041cecb-885c-4760-85d8-0e786f7efb88)
 
 ***Code:***
-'''
+```
+
 // PROJECT BY DhruvProjects : https://github.com/DhruvsProjects
 int photo = A1;   //Attatching the photoresistor to pin A1
 int led = 13;   //Attatching the built in led to pin 13 (LED_BUILTIN can also be used)
@@ -36,7 +37,8 @@ else{
 }
 delay(100); 
 }
-'''
+
+```
 
    
 
