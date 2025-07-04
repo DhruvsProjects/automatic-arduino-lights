@@ -7,6 +7,10 @@ Components needed:
 3) Resistor(Resistance depending on the sensitvity of lights based on your application)
 4) Photoresistor
 5) Breadboard
+
+**Circuit Diagram**:
+![image](https://github.com/user-attachments/assets/e041cecb-885c-4760-85d8-0e786f7efb88)
+
    
 
    
