@@ -10,6 +10,9 @@ A basic arduino project to create an automatic lighting system while understandi
 We will be using the built in LED of the arduino (which is assigned to pin 13 for most boards) as using an LED close to the photoresistor will cause interference 
 **Circuit Diagram**:
 ![image](https://github.com/user-attachments/assets/e041cecb-885c-4760-85d8-0e786f7efb88)
+![IMG_9396 - Copy](https://github.com/user-attachments/assets/d3d68eba-3ead-4b55-a38d-9d82e4c2eb63)
+
+
 
 
    
